@@ -35,7 +35,7 @@
             "widget_title_margin_bottom": "30",
             "widget_title_margin_left": "10",
             "widget_title_text_align": "center",
-            "widget_title_html": "Dark Seid"
+            "widget_title_html": "Come to the Dark Side. We have  cookies!"
         },
         ".carousel-arrow": {
             "carousel_arrow_display": "block",
