@@ -121,6 +121,10 @@
             "product_item_border_width": "5",
             "product_item_border_style": "dotted",
             "product_item_border_color": "rgba(0, 0, 0, 1)"
+        },
+        ".product-item-image-overlay": {
+            "product_item_image_overlay_background_color": "rgba(255, 0, 0, 1)",
+            "product_item_image_overlay_opacity": "1"
         }
     }
 }
