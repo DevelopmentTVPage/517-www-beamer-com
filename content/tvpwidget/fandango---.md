@@ -10,7 +10,7 @@
             "widget_background_color": "rgba(255, 0, 0, 1)",
             "widget_padding_top": "20",
             "widget_padding_right": "20",
-            "widget_padding_bottom": "20",
+            "widget_padding_bottom": 0,
             "widget_padding_left": "20",
             "widget_border_width": "20",
             "widget_border_style": "solid",
@@ -35,7 +35,7 @@
             "widget_title_margin_bottom": "30",
             "widget_title_margin_left": "10",
             "widget_title_text_align": "center",
-            "widget_title_html": "Come to the Dark Side. We have  cookies!"
+            "widget_title_html": "-_-"
         },
         ".carousel-arrow": {
             "carousel_arrow_display": "block",
