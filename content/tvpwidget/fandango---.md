@@ -33,7 +33,8 @@
             "widget_title_margin_right": "10",
             "widget_title_margin_bottom": "30",
             "widget_title_margin_left": "10",
-            "widget_title_text_align": "center"
+            "widget_title_text_align": "center",
+            "widget_title_html": "Dark Seid"
         }
     }
 }
