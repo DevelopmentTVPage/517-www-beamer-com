@@ -98,6 +98,10 @@
             "widget_modal_header_padding_right": "0",
             "widget_modal_header_padding_bottom": "0",
             "widget_modal_header_padding_left": "0"
+        },
+        ".widget-modal-title": {
+            "widget_modal_font_weight": "bold",
+            "widget_modal_title_color": "rgba(0, 0, 0, 1)"
         }
     }
 }
