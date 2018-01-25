@@ -131,6 +131,24 @@
         },
         ".pop-over-pointer::after": {
             "product_pop_over_pointer_background_color": "rgba(255, 0, 0, 1)"
+        },
+        ".product-pop-over-title": {
+            "product_pop_over_title_background_color": "rgba(0, 0, 0, 1)",
+            "product_pop_over_title_color": "rgba(255, 0, 0, 1)",
+            "product_pop_over_title_font_weight": "bold",
+            "product_pop_over_title_text_align": "center",
+            "product_pop_over_title_border_style": "dotted",
+            "product_pop_over_title_border_color": "rgba(255, 0, 0, 1)",
+            "product_pop_over_title_border_width": "5",
+            "product_pop_over_title_padding_top": "5",
+            "product_pop_over_title_padding_right": "5",
+            "product_pop_over_title_padding_bottom": "5",
+            "product_pop_over_title_padding_left": "5",
+            "product_pop_over_title_margin_top": "5",
+            "product_pop_over_title_margin": "5",
+            "product_pop_over_title_margin_bottom": "5",
+            "product_pop_over_title_margin_left": "5",
+            "product_pop_over_title_font_size": "10px"
         }
     }
 }
