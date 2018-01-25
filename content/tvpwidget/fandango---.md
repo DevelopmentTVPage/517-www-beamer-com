@@ -18,6 +18,22 @@
         },
         ".slick-dots li button": {
             "carousel_dot_border_radius": "1%"
+        },
+        ".widget-title": {
+            "widget_title_background_color": "rgba(0, 0, 0, 1)",
+            "widget_title_color": "rgba(255, 0, 0, 1)",
+            "widget_title_font_size": "50px",
+            "widget_title_font_weight": "bold",
+            "widget_title_padding_top": "10",
+            "widget_title_padding_right": "10",
+            "widget_title_padding_bottom": "10",
+            "widget_title_padding_left": "10",
+            "widget_title_display": "block",
+            "widget_title_margin_top": "10",
+            "widget_title_margin_right": "10",
+            "widget_title_margin_bottom": "30",
+            "widget_title_margin_left": "10",
+            "widget_title_text_align": "center"
         }
     }
 }
