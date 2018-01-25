@@ -63,6 +63,21 @@
             "video_item_font_weight": "bold",
             "video_item_text_align": "center",
             "video_item_hover_color": "rgba(255, 0, 0, 1)"
+        },
+        ".video-item-image-overlay": {
+            "video_item_image_overlay_opacity": "1",
+            "video_item_image_hover_overlay_opacity": "1",
+            "video_item_image_overlay_hover_background_color": "rgba(255, 0, 0, 1)"
+        },
+        ".video-item-image-icon": {
+            "video_item_image_icon_border_width": "4",
+            "video_item_image_icon_border_style": "solid",
+            "video_item_image_icon_border_color": "rgba(0, 0, 0, 1)",
+            "video_item_image_icon_border_radius": "50%",
+            "video_item_image_icon_background_color": "rgba(255, 0, 0, 1)",
+            "video_item_image_icon_color": "rgba(0, 0, 0, 1)",
+            "video_item_image_icon_hover_background_color": "rgba(255, 0, 0, 1)",
+            "video_item_image_icon_hover_color": "rgba(255, 0, 0, 1)"
         }
     }
 }
