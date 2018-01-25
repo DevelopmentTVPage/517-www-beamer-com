@@ -138,7 +138,7 @@
             "product_pop_over_title_font_weight": "bold",
             "product_pop_over_title_text_align": "center",
             "product_pop_over_title_border_style": "dotted",
-            "product_pop_over_title_border_color": "rgba(255, 0, 0, 1)",
+            "product_pop_over_title_border_color": "rgba(244, 255, 0, 1)",
             "product_pop_over_title_border_width": "5",
             "product_pop_over_title_padding_top": "5",
             "product_pop_over_title_padding_right": "5",
@@ -149,6 +149,24 @@
             "product_pop_over_title_margin_bottom": "5",
             "product_pop_over_title_margin_left": "5",
             "product_pop_over_title_font_size": "10px"
+        },
+        ".product-pop-over-price": {
+            "product_pop_over_price_background_color": "rgba(0, 0, 0, 1)",
+            "product_pop_over_price_text_align": "center",
+            "product_pop_over_price_font_weight": "bold",
+            "product_pop_over_price_color": "rgba(255, 0, 0, 1)",
+            "product_pop_over_price_font_size": "10px",
+            "product_pop_over_price_border_style": "dotted",
+            "product_pop_over_price_border_width": "5",
+            "product_pop_over_price_border_color": "rgba(237, 255, 0, 1)",
+            "product_pop_over_price_padding_top": "5",
+            "product_pop_over_price_padding_right": "5",
+            "product_pop_over_price_padding_bottom": "5",
+            "product_pop_over_price_padding_left": "5",
+            "product_pop_over_price_margin_top": "5",
+            "product_pop_over_price_margin_right": "5",
+            "product_pop_over_price_margin_bottom": "3",
+            "product_pop_over_price_margin_left": "5"
         }
     }
 }
