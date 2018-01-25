@@ -125,6 +125,12 @@
         ".product-item-image-overlay": {
             "product_item_image_overlay_background_color": "rgba(255, 0, 0, 1)",
             "product_item_image_overlay_opacity": "1"
+        },
+        ".product-pop-over": {
+            "product_pop_over_background_color": "rgba(255, 0, 0, 1)"
+        },
+        ".pop-over-pointer::after": {
+            "product_pop_over_pointer_background_color": "rgba(255, 0, 0, 1)"
         }
     }
 }
