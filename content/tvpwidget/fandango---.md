@@ -102,6 +102,25 @@
         ".widget-modal-title": {
             "widget_modal_font_weight": "bold",
             "widget_modal_title_color": "rgba(0, 0, 0, 1)"
+        },
+        ".widget-modal-close": {
+            "widget_modal_close_color": "rgba(0, 0, 0, 1)",
+            "widget_modal_close_opacity": "1",
+            "widget_modal_hover_close_color": "rgba(255, 0, 0, 1)",
+            "widget_modal_hover_close_opacity": "1"
+        },
+        ".product-item": {
+            "product_item_padding_top": "5",
+            "product_item_padding_right": "5",
+            "product_item_padding_bottom": "5",
+            "product_item_padding_left": "5",
+            "product_item_margin_top": "12",
+            "product_item_margin_right": "12",
+            "product_item_margin_bottom": "12",
+            "product_item_margin_left": "12",
+            "product_item_border_width": "5",
+            "product_item_border_style": "dotted",
+            "product_item_border_color": "rgba(0, 0, 0, 1)"
         }
     }
 }
