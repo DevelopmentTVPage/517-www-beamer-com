@@ -17,7 +17,8 @@
             "widget_border_color": "rgba(0, 0, 0, 1)"
         },
         ".slick-dots li button": {
-            "carousel_dot_border_radius": "1%"
+            "carousel_dot_border_radius": "1%",
+            "carousel_dot_display": "block"
         },
         ".widget-title": {
             "widget_title_background_color": "rgba(0, 0, 0, 1)",
@@ -39,7 +40,29 @@
         ".carousel-arrow": {
             "carousel_arrow_display": "block",
             "carousel_arrow_background_color": "rgba(255, 0, 0, 1)",
-            "carousel_arrow_color": "rgba(0, 0, 0, 1)"
+            "carousel_arrow_color": "rgba(0, 0, 0, 1)",
+            "carousel_arrow_hover_background_color": "rgba(0, 0, 0, 1)"
+        },
+        ".video-item": {
+            "video_item_display_amount": "2",
+            "video_item_margin_top": "20",
+            "video_item_margin_right": "20",
+            "video_item_margin_bottom": "20",
+            "video_item_margin_left": "20",
+            "video_item_padding_top": "20",
+            "video_item_padding_right": "20",
+            "video_item_padding_bottom": "20",
+            "video_item_padding_left": "20",
+            "video_item_border_style": "solid",
+            "video_item_border_width": "20",
+            "video_item_border_color": "rgba(2, 2, 2, 1)",
+            "video_item_border_radius": "12%",
+            "video_item_background_color": "rgba(255, 0, 0, 1)",
+            "video_item_color": "rgba(0, 0, 0, 1)",
+            "video_item_font_size": "30px",
+            "video_item_font_weight": "bold",
+            "video_item_text_align": "center",
+            "video_item_hover_color": "rgba(255, 0, 0, 1)"
         }
     }
 }
