@@ -1,0 +1,15 @@
+{
+    "title": "Fresh Widget",
+    "baseURL": "https:\/\/www.beamer.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759094",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "beamer.com"
+    }
+}
