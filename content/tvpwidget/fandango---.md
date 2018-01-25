@@ -167,6 +167,14 @@
             "product_pop_over_price_margin_right": "5",
             "product_pop_over_price_margin_bottom": "5",
             "product_pop_over_price_margin_left": "5"
+        },
+        ".product-pop-over-cta": {
+            "product_pop_over_cta_background_color": "rgba(255, 224, 0, 1)",
+            "product_pop_over_cta_font_size": "10px",
+            "product_pop_over_cta_color": "rgba(0, 0, 0, 1)",
+            "product_pop_over_cta_width": "5",
+            "product_pop_over_cta_style": "dotted",
+            "product_pop_over_border_color": "rgba(0, 255, 225, 1)"
         }
     }
 }
