@@ -88,6 +88,16 @@
             "widget_modal_body_padding_right": "0",
             "widget_modal_body_padding_bottom": "0",
             "widget_modal_body_padding_left": "0"
+        },
+        ".widget-modal-header": {
+            "widget_modal_header_background_color": "rgba(255, 0, 0, 1)",
+            "widget_modal_header_border_style": "solid",
+            "widget_modal_header_border_width": "10",
+            "widget_modal_header_border_color": "rgba(0, 0, 0, 1)",
+            "widget_modal_header_padding_top": "0",
+            "widget_modal_header_padding_right": "0",
+            "widget_modal_header_padding_bottom": "0",
+            "widget_modal_header_padding_left": "0"
         }
     }
 }
