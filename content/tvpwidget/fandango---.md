@@ -165,7 +165,7 @@
             "product_pop_over_price_padding_left": "5",
             "product_pop_over_price_margin_top": "5",
             "product_pop_over_price_margin_right": "5",
-            "product_pop_over_price_margin_bottom": "3",
+            "product_pop_over_price_margin_bottom": "5",
             "product_pop_over_price_margin_left": "5"
         }
     }
